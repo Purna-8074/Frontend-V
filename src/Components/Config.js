@@ -1,4 +1,4 @@
 const config={
-    url:"http://localhost:2002"
+    url:"backend-r-production.up.railway.app"
 }
 export default config
