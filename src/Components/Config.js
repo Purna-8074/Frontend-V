@@ -1,4 +1,5 @@
-const config={
-    url:"backend-r-production.up.railway.app"
-}
-export default config
+const config = {
+    url: "https://backend-r-production.up.railway.app"
+};
+
+export default config;
